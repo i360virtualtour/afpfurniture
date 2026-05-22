@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[AFP Furniture Production]]></data>
+  <data name="en_project_author_name"><![CDATA[Developed by "www.i360Limited.com"]]></data>
+  <data name="en_project_author_url"><![CDATA[http://www.i360limited.com/]]></data>
+
+
+  <data name="en_panogroup40_title"><![CDATA[showroom reception]]></data>
+
+  <data name="en_pano39_title"><![CDATA[Front Office]]></data>
+  <data name="en_spotpoint116_tooltip"><![CDATA[Lounge]]></data>
+  <data name="en_spotpoint12788_tooltip"><![CDATA[Corridor]]></data>
+  <data name="en_spotpoint12789_tooltip"><![CDATA[Kitchenette]]></data>
+  <data name="en_pano12508_title"><![CDATA[Kitchenette 1]]></data>
+  <data name="en_spotpoint12512_tooltip"><![CDATA[Showroom View]]></data>
+  <data name="en_pano49_title"><![CDATA[Lounge View]]></data>
+  <data name="en_spotpoint11613_tooltip"><![CDATA[Dining Design]]></data>
+  <data name="en_pano13439_title"><![CDATA[Lounge]]></data>
+
+
+  <data name="en_pano59_title"><![CDATA[Hallway Ground Floor]]></data>
+  <data name="en_spotpoint142_tooltip"><![CDATA[Lounge]]></data>
+  <data name="en_spotpoint143_tooltip"><![CDATA[Design Centre/offices]]></data>
+
+  <data name="en_panogroup72_title"><![CDATA[OFFICES DESIGNS]]></data>
+
+  <data name="en_pano61_title"><![CDATA[Design Centre]]></data>
+  <data name="en_spotpoint144_tooltip"><![CDATA[Office Design]]></data>
+  <data name="en_spotpoint145_tooltip"><![CDATA[Front Office]]></data>
+  <data name="en_pano65_title"><![CDATA[Office Setting]]></data>
+  <data name="en_spotpoint150_tooltip"><![CDATA[Office 1]]></data>
+  <data name="en_spotpoint151_tooltip"><![CDATA[Boardroom Setting]]></data>
+  <data name="en_spotpoint369_tooltip"><![CDATA[Baby's Room]]></data>
+  <data name="en_pano69_title"><![CDATA[Boardroom Setting ]]></data>
+  <data name="en_spotpoint155_tooltip"><![CDATA[Office Table]]></data>
+  <data name="en_spotpoint156_tooltip"><![CDATA[Baby’s Room]]></data>
+  <data name="en_spotpoint157_tooltip"><![CDATA[Kitchenette]]></data>
+  <data name="en_spotpoint158_tooltip"><![CDATA[Console & Mirror]]></data>
+  <data name="en_spotpoint13106_tooltip"><![CDATA[1st Floor]]></data>
+
+
+  <data name="en_pano73_title"><![CDATA[Baby’s Room]]></data>
+  <data name="en_spotpoint373_tooltip"><![CDATA[Exit]]></data>
+
+
+  <data name="en_pano75_title"><![CDATA[Kitchenette]]></data>
+  <data name="en_spotpoint159_tooltip"><![CDATA[Vanity 1]]></data>
+  <data name="en_spotpoint163_tooltip"><![CDATA[Home Cinema]]></data>
+  <data name="en_spotpoint166_tooltip"><![CDATA[Vanity 2]]></data>
+  <data name="en_spotpoint362_tooltip"><![CDATA[Office Furnitures]]></data>
+
+  <data name="en_panogroup82_title"><![CDATA[VANITY 1]]></data>
+
+  <data name="en_pano77_title"><![CDATA[Vanity 1 ]]></data>
+  <data name="en_spotpoint162_tooltip"><![CDATA[Exit]]></data>
+  <data name="en_pano81_title"><![CDATA[Vanity 1]]></data>
+  <data name="en_spotpoint365_tooltip"><![CDATA[Exit]]></data>
+  <data name="en_pano79_title"><![CDATA[Vanity 1-Toilet]]></data>
+
+
+  <data name="en_pano164_title"><![CDATA[Vanity 2]]></data>
+  <data name="en_spotpoint167_tooltip"><![CDATA[Exit]]></data>
+
+
+  <data name="en_pano83_title"><![CDATA[Home Cinema]]></data>
+  <data name="en_spotpoint374_tooltip"><![CDATA[Exit]]></data>
+
+
+  <data name="en_pano85_title"><![CDATA[Console and Mirror]]></data>
+  <data name="en_spotpoint168_tooltip"><![CDATA[Area]]></data>
+  <data name="en_spotpoint169_tooltip"><![CDATA[First Floor]]></data>
+
+
+  <data name="en_pano109_title"><![CDATA[First Floor Landing]]></data>
+  <data name="en_spotpoint172_tooltip"><![CDATA[Executive Lounge and Bar]]></data>
+  <data name="en_spotpoint173_tooltip"><![CDATA[Dining Area]]></data>
+
+
+  <data name="en_pano89_title"><![CDATA[Executive Lounge and Bar]]></data>
+  <data name="en_spotpoint174_tooltip"><![CDATA[Exit]]></data>
+
+
+  <data name="en_pano91_title"><![CDATA[First Floor Dining Area]]></data>
+  <data name="en_spotpoint175_tooltip"><![CDATA[Executive Lounge and Bar]]></data>
+  <data name="en_spotpoint176_tooltip"><![CDATA[Toilet]]></data>
+  <data name="en_spotpoint178_tooltip"><![CDATA[Corridor]]></data>
+  <data name="en_spotpoint13110_tooltip"><![CDATA[Hotel Room]]></data>
+  <data name="en_spotpoint13111_tooltip"><![CDATA[Masters' Bedroom]]></data>
+  <data name="en_spotpoint13112_tooltip"><![CDATA[Kitchen]]></data>
+
+
+  <data name="en_pano95_title"><![CDATA[First Floor Kitchen]]></data>
+  <data name="en_spotpoint193_tooltip"><![CDATA[Dining Area]]></data>
+
+
+  <data name="en_pano97_title"><![CDATA[First Floor Toilet]]></data>
+  <data name="en_spotpoint194_tooltip"><![CDATA[Exit]]></data>
+
+
+  <data name="en_pano179_title"><![CDATA[First Floor Hallway]]></data>
+  <data name="en_spotpoint181_tooltip"><![CDATA[5 Star Hotel Suite]]></data>
+  <data name="en_spotpoint182_tooltip"><![CDATA[Dining Area]]></data>
+  <data name="en_spotpoint183_tooltip"><![CDATA[Maste's/Bedroom's]]></data>
+
+  <data name="en_panogroup106_title"><![CDATA[5 STAR HOTEL SUITE]]></data>
+
+  <data name="en_pano101_title"><![CDATA[5 Star Hotel Suite]]></data>
+  <data name="en_spotpoint184_tooltip"><![CDATA[Hallway]]></data>
+  <data name="en_spotpoint185_tooltip"><![CDATA[Toilet]]></data>
+  <data name="en_pano105_title"><![CDATA[Star Hotel Suite's Toilet]]></data>
+  <data name="en_spotpoint190_tooltip"><![CDATA[Room Area]]></data>
+
+
+  <data name="en_pano107_title"><![CDATA[Madam's Bedroom]]></data>
+  <data name="en_spotpoint189_tooltip"><![CDATA[Exite/Hallway]]></data>
+
+
+	<data name="en_spotmap13711_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap13712_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap13713_tooltip"><![CDATA[]]></data>
+
+
+
+
+  <data name="en_controlBar_classiczoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_classiczoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_classicsoundsOnTip"><![CDATA[Start sounds]]></data>
+  <data name="en_controlBar_classicsoundsOffTip"><![CDATA[Stop sounds]]></data>
+  <data name="en_controlBar_classicshowSpotsTip"><![CDATA[Show hotspots]]></data>
+  <data name="en_controlBar_classichideSpotsTip"><![CDATA[Hide hotspots]]></data>
+  <data name="en_controlBar_classicshowThumbnailsTip"><![CDATA[Show thumbnails]]></data>
+  <data name="en_controlBar_classichideThumbnailsTip"><![CDATA[Hide thumbnails]]></data>
+  <data name="en_controlBar_classicdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_controlBar_classichideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_controlBar_classicenterVRTip"><![CDATA[VR mode]]></data>
+  <data name="en_controlBar_classicenterVRNotTip"><![CDATA[VR mode is unavailable]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_logo2websiteurl"><![CDATA[https://www.afp.ng]]></data>
+  <data name="en_logo2tooltipText"><![CDATA[Open website]]></data>
+  <data name="en_buttontooltip"><![CDATA[Visit Us On Google]]></data>
+  <data name="en_buttononclick108731openurlwebsiteurl"><![CDATA[https://goo.gl/maps/AMRhnfxRpbH658rA8]]></data>
+  <data name="en_button3tooltip"><![CDATA[info]]></data>
+  <data name="en_button2tooltip"><![CDATA[Social Share]]></data>
+  <data name="en_floorPlanmenu_label"><![CDATA[Select a Hole/Location]]></data>
+  <data name="en_floorPlandisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareclose_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareembed_text"><![CDATA[Copy paste this code in your page to embed this virtual tour]]></data>
+  <data name="en_socialShareembed_width_label"><![CDATA[Width]]></data>
+  <data name="en_socialShareembed_height_label"><![CDATA[Height]]></data>
+  <data name="en_contextmenuopenwebsitelabel1"><![CDATA[AFP Furniture Production]]></data>
+  <data name="en_contextmenuwebsiteurl1"><![CDATA[]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_contextmenuopenVrLabel"><![CDATA[Enter VR mode]]></data>
+  <data name="en_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_contextmenufisheyelabel"><![CDATA[Fisheye View]]></data>
+  <data name="en_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_contextmenustereographiclabel"><![CDATA[Stereographic View]]></data>
+  <data name="en_contextmenupanninilabel"><![CDATA[Pannini View]]></data>
+  <data name="en_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="en_contextmenufisheyeballlabel"><![CDATA[Fisheye Ball View]]></data>
+  <data name="en_descriptiondescription_title"><![CDATA[ABOUT AFP FURNITURE]]></data>
+  <data name="en_descriptiondisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_description1display_close_text"><![CDATA[Close]]></data>
+  <data name="en_websiteViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_websiteViewerclose_text"><![CDATA[Close]]></data>
+  <data name="en_webVideoViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_webVideoViewerclose_text"><![CDATA[Close]]></data>
+  <data name="en_countergamemessagetemplate"><![CDATA[NB/MAX]]></data>
+  <data name="en_webvrbuttontooltip"><![CDATA[]]></data>
+  <data name="en_logo3websiteurl"><![CDATA[https://www.i360limited.com]]></data>
+  <data name="en_logo3tooltipText"><![CDATA[Open website : +234 803 618 2896]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+  <data name="en_project_description"><![CDATA[<div></div><div>Founded in 1990 as a subsidiary of Julius Berger Nigeria Plc, AFP offers premium quality furnishings which blends contemporary designs with timeless elegance, while cleverly striking a balance between luxury and functionality.  Driven by history and an identity that steadfastly focuses on delivering quality made in Nigeria design and craftsmanship, AFP is acknowledged as an exceptional partner in the technical and executive development of hotel, residential, or office spaces.</div><div><br></div><div>(Virtual Tour Developed by www.i360Limited.com &nbsp;| +236 803 618 2896)</div>]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
